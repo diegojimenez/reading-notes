@@ -1,6 +1,6 @@
 # How to Win Friends and Influence People
 
-### Handling People
+## Handling People
 
 **1. Don’t criticize, condemn or complain**
 	Criticism is futile because it puts a person on the defensive and usually makes him strive to justify himself. Try to understand the point of view of the other person in order to foster sympathy, tolerance and kindness.
@@ -11,7 +11,7 @@
 **4. Arouse in the other person an eager want**
 	The only way on earth to influence other people is to talk about what they want and show them how to get it. Offer and demonstrate how your product can solve other people’s problems.
 
-### Making People Like You
+## Making People Like You
 **1. Become genuinely interested in other people**
 	People are not interested in you; they are interested in themselves 24/7/365. Greet people with animation and enthusiasm.
 
@@ -30,7 +30,7 @@
 **6. Make the other person feel important—and do it sincerely**
 	In order to say something kind about another person, observe and ask yourself: *“What is there about this person that I can honestly admire?”* Strive to radiate happiness and “pass on a bit of honest appreciation without trying to get something out of the other person in return.”
 	
-### Winning People to Your Way of Thinking
+## Winning People to Your Way of Thinking
 **1. The only way to get the best of an argument is to avoid it**
 Suggestions for keeping a disagreement from escalating:
 - Welcome the disagreement
@@ -76,7 +76,7 @@ Suggestions for keeping a disagreement from escalating:
 **12. Throw down a challenge**
 	Interesting, stimulating and exciting work is, in itself, a kind of motivation for people: it makes them look forward to the challenge. The desire to excel instills a feeling of importance in people and feeling important is one of the greatest universal desires.
 
-### Becoming a Leader
+## Becoming a Leader
 **1. Begin with praise and honest appreciation**
 	It is always easier to listen to unpleasant things after we have heard some praise of our good points.
 **2. Call attention to people’s mistakes indirectly**
@@ -99,6 +99,6 @@ Suggestions for keeping a disagreement from escalating:
 
 **8. Use encouragement. Make the fault seem easy to correct**
 	Emphasize the positive and be careful not to discourage through too much focus on mistakes and errors. The goal is to foster a desire to improve rather than foster a desire to quit.
-	
+
 **9. Make the other person happy about doing the thing you suggest**
 	Making the person feel important is key. When asking someone to perform a task that might seem undesirable, be sure to consider and articulate the benefits that align with the person’s wants.
