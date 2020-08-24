@@ -1,7 +1,7 @@
 # Book Notes - "How to Win Friends and Influence People"
-*Book notes from [How to Win Friends and Influence People](goodreads.com/book/show/22883646-how-to-win-friends-and-influence-people-how-to-stop-worrying-and-start) by [Dale Carnegie](https://en.wikipedia.org/wiki/Dale_Carnegie), 1981 (revised edition).*
+*Book notes from [How to Win Friends and Influence People](goodreads.com/book/show/22883646-how-to-win-friends-and-influence-people-how-to-stop-worrying-and-start) by [Dale Carnegie](https://en.wikipedia.org/wiki/Dale_Carnegie), 1981 (revised edition). Read in August 2020.*  
 
----
+---  
 ## Handling People
 
 **1. Don’t criticize, condemn or complain.**
@@ -30,7 +30,7 @@
 	Guest of Theodore Roosevelt were astonished at his range of knowledge. But he had a secret trick he used: “Whenever Roosevelt expected a visitor, he sat up late the night before, reading up on the subject in which he knew his guest was particularly interested. For Roosevelt knew, as all leaders know, that the royal road to a person’s heart is to talk about the things he or she treasures most.”
 
 **6. Make the other person feel important—and do it sincerely.**
-	In order to say something kind about another person, observe and ask yourself: *“What is there about this person that I can honestly admire?”* Strive to radiate happiness and “pass on a bit of honest appreciation without trying to get something out of the other person in return.”
+	In order to say something kind about another person, observe and ask yourself: *“What is there about this person that I can honestly admire?”* Strive to radiate happiness and “pass on a bit of honest appreciation without trying to get something out of the other person in return.”  
 	
 ## Winning People to Your Way of Thinking
 **1. The only way to get the best of an argument is to avoid it.**
@@ -76,7 +76,7 @@ Suggestions for keeping a disagreement from escalating:
 	Create a worthy narrative around your ideas. Merely stating a truth isn’t enough. This idea is necessary in order to earn attention and stand above your peers and competitors.
 
 **12. Throw down a challenge.**
-	Interesting, stimulating and exciting work is, in itself, a kind of motivation for people: it makes them look forward to the challenge. The desire to excel instills a feeling of importance in people and feeling important is one of the greatest universal desires.
+	Interesting, stimulating and exciting work is, in itself, a kind of motivation for people: it makes them look forward to the challenge. The desire to excel instills a feeling of importance in people and feeling important is one of the greatest universal desires.  
 
 ## Becoming a Leader
 **1. Begin with praise and honest appreciation.**
