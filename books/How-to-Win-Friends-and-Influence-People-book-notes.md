@@ -1,11 +1,7 @@
-# "How to Win Friends and Influence People" - Book Notes
-
-Summary notes from *"How to Win Friends and Influence People"* by [Dale Carnegie](https://en.wikipedia.org/wiki/Dale_Carnegie) (revised edition, 1981).
-- [Amazon](https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034) ~$10
-- [Goodreads](goodreads.com/book/show/22883646-how-to-win-friends-and-influence-people-how-to-stop-worrying-and-start) 4.52/5
+# Book Notes - "How to Win Friends and Influence People"
+*Book notes from [How to Win Friends and Influence People](goodreads.com/book/show/22883646-how-to-win-friends-and-influence-people-how-to-stop-worrying-and-start) by [Dale Carnegie](https://en.wikipedia.org/wiki/Dale_Carnegie), 1981 (revised edition).*
 
 ---
-
 ## Handling People
 
 **1. Don’t criticize, condemn or complain.**
